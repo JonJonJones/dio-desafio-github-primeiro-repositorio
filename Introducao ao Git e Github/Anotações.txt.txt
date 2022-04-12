@@ -1,0 +1,8 @@
+Link para Download do Git para:
+
+ Windows https://git-scm.com/download/win
+ Linux   https://git-scm.com/download/linux
+ Mac     https://git-scm.com/download/mac
+
+O Git Bash é um terminal extendido para uso do Git,
+no momento da instalação, verificar se Git Bash está marcado.
