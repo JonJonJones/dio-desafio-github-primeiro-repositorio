@@ -1,0 +1,7 @@
+windows                               unix
+dir                                   ls             lista diretórios contidos na pasta
+cd/                                   cd/            leva para base de diretório C
+cd..                                  cd..           retrocede um nível
+cls                                   clear          limpar terminal
+mkdir workspace                       mkdir          cria pasta
+rmdir workspace/s/q                   rm-rf          deleta pasta (repositório)
