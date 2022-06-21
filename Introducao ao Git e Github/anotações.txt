@@ -1,3 +1,4 @@
+COMMAND LINE INTERFACE
 windows                               unix
 dir                                   ls             lista diretórios contidos na pasta
 cd/                                   cd/            leva para base de diretório C
@@ -5,3 +6,11 @@ cd..                                  cd..           retrocede um nível
 cls                                   clear          limpar terminal
 mkdir workspace                       mkdir          cria pasta
 rmdir workspace/s/q                   rm-rf          deleta pasta (repositório)
+
+LINK DOWNLOAD GIT
+Windows https://git-scm.com/download/win
+ Linux   https://git-scm.com/download/linux
+ Mac     https://git-scm.com/download/mac
+
+O Git Bash é um terminal extendido para uso do Git,
+no momento da instalação, verificar se Git Bash está marcado.
