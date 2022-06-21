@@ -1,0 +1,12 @@
+  Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser
+implementados no computador.
+
+4 Pilares
+-Decomposição ->  pegar um problema e dividi-lo em sub-problemas;
+-reconhecimento de padrões -> identificar padrões ou tendências. Similaridades e diferenças entre problemas;
+- abstração -> extrapolaro conceito de problema para uma forma generalista;
+- design de algoritmo -> automatizar,definir passo a passo a solução do problema;
+
+Raciocinio lógico
+  Forma de pensamento estruturado ou raciocinio, que permite encontrar a conclusão ou determinar a resolução
+de um problema.
